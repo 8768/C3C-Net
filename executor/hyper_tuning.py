@@ -5,7 +5,7 @@ import hyperopt
 from hyperopt import hp, fmin, tpe, atpe, rand
 from hyperopt.pyll.base import Apply
 
-
+# 
 def _recursivefindnodes(root, node_type='switch'):
     nodes = []
     if isinstance(root, (list, tuple)):
