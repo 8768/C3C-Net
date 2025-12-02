@@ -5,7 +5,7 @@ class AbstractModel(nn.Module):
 
     def __init__(self, config, data_feature):
         nn.Module.__init__(self)
-
+# test
     def predict(self, batch):
         """
         Args:
