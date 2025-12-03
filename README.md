@@ -99,7 +99,7 @@ PR Checklist:
 1.Code works as expected  
 2.Tests updated (if needed)  
 3.No style/lint issues  
-- [ ] PR title and commit messages are meaningful  
+4.PR title and commit messages are meaningful  
 
 ---
 
