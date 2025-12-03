@@ -10,7 +10,7 @@ We welcome all contributions including code, documentation, and community feedba
 
 This guide explains:
 1.How external developers can contribute 
-2.Code rules and style guideline
+2.Code rules and style guidelines
 3.Pull Request submission format 
 4.Issue reporting best practices  
 
