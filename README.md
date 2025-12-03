@@ -65,7 +65,6 @@ npm run lint
 npm run test
 ```
 
-(Adjust based on project stack)
 
 ---
 
