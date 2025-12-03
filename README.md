@@ -146,5 +146,5 @@ Any alternative solution considered?
 
 ## Thanks for Contributing
 
-Every contribution helps improve the project — Thank you for your support! 
+Every contribution helps improve the project. Thank you for your support! 
 If you have any questions, feel free to open an Issue or discussion.
