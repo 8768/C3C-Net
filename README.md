@@ -98,7 +98,7 @@ PR Checklist:
 
 1.Code works as expected  
 2.Tests updated (if needed)  
-- [ ] No style/lint issues  
+3.No style/lint issues  
 - [ ] PR title and commit messages are meaningful  
 
 ---
