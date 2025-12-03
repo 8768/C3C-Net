@@ -1,3 +1,5 @@
+<img width="565" height="224" alt="image" src="https://github.com/user-attachments/assets/f93249a5-1f09-4016-b8db-13617596337a" />
+
 # Contribution Guide
 
 Thank you for considering contributing to this project!  
