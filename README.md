@@ -5,7 +5,7 @@ Understanding the distribution of crowd flow is crucial for optimizing intellige
 
 # Contribution Guide
 
-Thank you for considering contributing to this project!  
+Thank you for considering contributing to this project.
 We welcome all contributions including code, documentation, and community feedback.
 
 This guide explains:
