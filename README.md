@@ -96,7 +96,7 @@ Attach screenshots for UI-related changes.
 
 PR Checklist:
 
-- [ ] Code works as expected  
+1.Code works as expected  
 - [ ] Tests updated (if needed)  
 - [ ] No style/lint issues  
 - [ ] PR title and commit messages are meaningful  
