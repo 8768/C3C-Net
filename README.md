@@ -1,5 +1,3 @@
-<img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/f93249a5-1f09-4016-b8db-13617596337a" />
-
 This is a Pytorch implementation of C3C-Net. Now the corresponding paper is available online at https://ieeexplore.ieee.org/document/9338307.
 
 # Introduction
